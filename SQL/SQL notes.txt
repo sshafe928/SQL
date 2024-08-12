@@ -129,3 +129,4 @@ FInding what types from drs_favorites is in exercise_logs
         SELECT * FROM exercise_logs WHERE type IN (
         SELECT type FROM drs_favorites);
 
+https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pt/querying-in-subqueries
